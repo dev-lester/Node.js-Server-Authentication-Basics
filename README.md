@@ -1,4 +1,4 @@
-# Node.js-Server-Authentication-Basics
+# NodeJS Server-Authentication-Basics
 Node.js Server &amp; Authentication Basics:  Express, Sessions, Passport, and cURL
 
 #Resources
